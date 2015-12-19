@@ -1,0 +1,15 @@
+{
+  "name": "cluster-d",
+  "version": "1.0.0",
+  "description": "df",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "jlq",
+  "license": "ISC",
+  "dependencies": {
+    "cluster": "^0.7.7"
+  }
+}
